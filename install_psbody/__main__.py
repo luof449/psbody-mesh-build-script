@@ -12,8 +12,8 @@ from install_pyopengl import install_pyopengl
 # preparing environment #
 
 
-#REPO_URL = "https://github.com/johnbanq/mesh.git" change1
-REPO_URL = "https://github.com/luof449/mesh.git"
+REPO_URL = "https://github.com/johnbanq/mesh.git" 
+#REPO_URL = "https://github.com/luof449/mesh.git"change1
 REPO_REVISION = "0d876727d5184161ed085bd3ef74967441b0a0e8"
 REPO_DIR = ".bqinstall.mpi-is.mesh"
 
